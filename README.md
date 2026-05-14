@@ -57,3 +57,9 @@ El sistema llegeix la **temperatura** (mitjançant un sensor LM35) i el **nivell
 ---
 
 ## 📁 Estructura del repositori
+├── README.md ← Aquest fitxer
+├── src/
+│ └── main.ino ← Codi font de l'ESP32
+└── doc/
+├── memoria_tecnica.pdf ← Documentació completa
+└── captures/ ← Captures del monitor sèrie
